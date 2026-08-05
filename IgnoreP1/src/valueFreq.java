@@ -15,7 +15,7 @@ public class valueFreq {
 			}
 			
 			int value = h1.get(arr[i]);
-			if(value>(arr.length)/2) System.out.println("finded value"+arr[i]);
+			if(value>(arr.length)/2) System.out.println("finded value"+arr[i]) ;
 		}
 		
 		System.out.println(h1);
